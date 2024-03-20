@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="",Canal Uno
+https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="",Caracol TV
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-logo="https://i.imgur.com/ybSn8tp.png" group-title="",Citytv Bogota
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="",Ecuador TV
+https://samson.streamerr.co:8081/akira/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="",Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 tvg-id="ElTiempoTV.co" tvg-logo="https://i.imgur.com/qKC1NJI.png" group-title="",El Tiempo TV
+https://ythls.armelin.one/channel/UCe5-b0fCK3eQCpwS6MT0aNw.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="News",NTN24
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="",Oromar TV
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="",RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="News",RTU
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="",Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="",Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Music",TeleHit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-logo="https://i.imgur.com/J6Mc42H.png" group-title="",Telerama
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series",Tlnovelas Mexico
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="",Univision Panregional
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
